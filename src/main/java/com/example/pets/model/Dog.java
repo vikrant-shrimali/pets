@@ -1,4 +1,4 @@
-package com.example.pets;
+package com.example.pets.model;
 
 import org.springframework.data.annotation.Id;
 
