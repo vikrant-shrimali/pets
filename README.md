@@ -1,6 +1,6 @@
 # Lets Adopt
 
-A Spring Boot REST service that helps people find an adoptable dog through a conversational AI assistant. It retrieves dog details from a PostgreSQL/pgvector store, uses PostgresML to create embeddings, and uses Google Gemini to generate answers. Conversation history is stored in PostgreSQL.
+A Spring Boot AI REST service (with RAG) that helps people find an adoptable dog through a conversational AI assistant. It retrieves dog details from a PostgreSQL/pgvector store, uses PostgresML to create embeddings, and uses Google Gemini to generate answers. Conversation history is stored in PostgreSQL.
 
 ## Requirements
 
